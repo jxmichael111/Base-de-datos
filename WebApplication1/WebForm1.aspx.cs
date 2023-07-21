@@ -43,6 +43,31 @@ namespace WebApplication1
                 DropDownListCiudad.Items.Add(s);
             }
         }
+        private void AddSesion(string nombre, string apellido, string sexo, string email, string dir, string ciudad, string reque)
+        {
+            Session["Nombre"] = nombre;
+            Session["Apellido"] = apellido;
+            Session["Sexo"] = sexo;
+            Session["Email"] = email;
+            Session["Direccion"] = dir;
+            Session["Ciudad"] = ciudad;
+            Session["Requerimientos"] = reque;
+        }
+        private void AddCookie(string nombre, string apellido, string sexo, string email, string dir, string ciudad, string reque)
+        {
+            HttpCookie datosUsuario = new HttpCookie("SesionUsuario");
+
+            datosUsuario["Nombre"] = nombre;
+            datosUsuario["Apellido"] = apellido;
+            datosUsuario["Sexo"] = sexo;
+            datosUsuario["Email"] = email;
+            datosUsuario["Direccion"] = dir;
+            datosUsuario["Ciudad"] = ciudad;
+            datosUsuario["Requerimientos"] = reque;
+
+            datosUsuario.Expires = DateTime.Now.AddMinutes(2);
+            Response.Cookies.Add(datosUsuario);
+        }
 
         protected void ButtonEnviar_Click(object sender, EventArgs e)
         {
@@ -66,6 +91,11 @@ namespace WebApplication1
 
 
             Service2Client client = new Service2Client();
+            
+
+            AddSesion(nombres, apellidos, sexo, email, address, ciudad, requerimientos);
+            AddCookie(nombres, apellidos, sexo, email, address, ciudad, requerimientos);
+            Response.Redirect("https://localhost:44362/Sesion.aspx");
             client.SaveTextToFile(nombres, apellidos, sexo, email, address, ciudad, requerimientos);
 
             DatosRegistrados.Text = datosRegistrados.ToString();
@@ -80,6 +110,8 @@ namespace WebApplication1
             direccion.Text = string.Empty;
             DropDownListCiudad.Text = "Seleccion una opcion";
             descripcion.Text = string.Empty;
+
+            
         }
     }
 }
