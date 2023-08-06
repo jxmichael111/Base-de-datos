@@ -1,0 +1,150 @@
+D:\solo michael\semestre 3\DBP\Servicio\Form\obj\Debug\Form.csproj.AssemblyReference.cache
+D:\solo michael\semestre 3\DBP\Servicio\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Form.dll.config
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Form.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Form.pdb
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\csc.exe
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\csc.exe.config
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\csc.rsp
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\csi.exe
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\csi.exe.config
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\csi.rsp
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.Managed.Core.targets
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.AppContext.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Collections.Immutable.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Console.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Globalization.Calendars.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.IO.Compression.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.IO.FileSystem.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Net.Http.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Net.Sockets.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Reflection.Metadata.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.ValueTuple.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Xml.XmlDocument.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Xml.XPath.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\vbc.exe
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\vbc.exe.config
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\vbc.rsp
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\VBCSCompiler.exe
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\roslyn\VBCSCompiler.exe.config
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Antlr3.Runtime.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\AspNet.ScriptManager.jQuery.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.ScriptManager.WebForms.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.Web.Infrastructure.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Newtonsoft.Json.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\System.Web.Optimization.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\WebGrease.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\System.Web.Optimization.xml
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Newtonsoft.Json.xml
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Antlr3.Runtime.pdb
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\es\System.Web.Optimization.resources.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\obj\Debug\Form.csproj.CopyComplete
+D:\solo michael\semestre 3\DBP\Servicio\Form\obj\Debug\Form.dll
+D:\solo michael\semestre 3\DBP\Servicio\Form\obj\Debug\Form.pdb
+F:\Servicio\Form\bin\Form.dll.config
+F:\Servicio\Form\bin\Form.dll
+F:\Servicio\Form\bin\Form.pdb
+F:\Servicio\Form\bin\roslyn\csc.exe
+F:\Servicio\Form\bin\roslyn\csc.exe.config
+F:\Servicio\Form\bin\roslyn\csc.rsp
+F:\Servicio\Form\bin\roslyn\csi.exe
+F:\Servicio\Form\bin\roslyn\csi.exe.config
+F:\Servicio\Form\bin\roslyn\csi.rsp
+F:\Servicio\Form\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Servicio\Form\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Servicio\Form\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Servicio\Form\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Servicio\Form\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Servicio\Form\bin\roslyn\System.AppContext.dll
+F:\Servicio\Form\bin\roslyn\System.Collections.Immutable.dll
+F:\Servicio\Form\bin\roslyn\System.Console.dll
+F:\Servicio\Form\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Servicio\Form\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Servicio\Form\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Servicio\Form\bin\roslyn\System.Globalization.Calendars.dll
+F:\Servicio\Form\bin\roslyn\System.IO.Compression.dll
+F:\Servicio\Form\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Servicio\Form\bin\roslyn\System.IO.FileSystem.dll
+F:\Servicio\Form\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Servicio\Form\bin\roslyn\System.Net.Http.dll
+F:\Servicio\Form\bin\roslyn\System.Net.Sockets.dll
+F:\Servicio\Form\bin\roslyn\System.Reflection.Metadata.dll
+F:\Servicio\Form\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Servicio\Form\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Servicio\Form\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Servicio\Form\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Servicio\Form\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Servicio\Form\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Servicio\Form\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Servicio\Form\bin\roslyn\System.ValueTuple.dll
+F:\Servicio\Form\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Servicio\Form\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Servicio\Form\bin\roslyn\System.Xml.XPath.dll
+F:\Servicio\Form\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Servicio\Form\bin\roslyn\vbc.exe
+F:\Servicio\Form\bin\roslyn\vbc.exe.config
+F:\Servicio\Form\bin\roslyn\vbc.rsp
+F:\Servicio\Form\bin\roslyn\VBCSCompiler.exe
+F:\Servicio\Form\bin\roslyn\VBCSCompiler.exe.config
+F:\Servicio\Form\bin\Antlr3.Runtime.dll
+F:\Servicio\Form\bin\AspNet.ScriptManager.jQuery.dll
+F:\Servicio\Form\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Servicio\Form\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Servicio\Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Servicio\Form\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Servicio\Form\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Servicio\Form\bin\Microsoft.Web.Infrastructure.dll
+F:\Servicio\Form\bin\Newtonsoft.Json.dll
+F:\Servicio\Form\bin\System.Web.Optimization.dll
+F:\Servicio\Form\bin\WebGrease.dll
+F:\Servicio\Form\bin\System.Web.Optimization.xml
+F:\Servicio\Form\bin\Newtonsoft.Json.xml
+F:\Servicio\Form\bin\Antlr3.Runtime.pdb
+F:\Servicio\Form\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Servicio\Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Servicio\Form\bin\es\System.Web.Optimization.resources.dll
+F:\Servicio\Form\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\Servicio\Form\obj\Debug\Form.csproj.AssemblyReference.cache
+F:\Servicio\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+F:\Servicio\Form\obj\Debug\Form.csproj.CopyComplete
+F:\Servicio\Form\obj\Debug\Form.dll
+F:\Servicio\Form\obj\Debug\Form.pdb
