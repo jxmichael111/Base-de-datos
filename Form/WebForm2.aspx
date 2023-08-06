@@ -106,16 +106,7 @@
 
             return true;
         }
-        function mostrar_alerta(text) {
-            Swal.fire({
-                title: 'Error!',
-                text: text,
-                icon: 'error',
-                confirmButtonText: 'Aceptar'
-            });
-        }
-
-
+        
         function ValidarDatos() {
             console.log("EmpaquetarContenido() fue llamada.");
             let nombre = $('#nombre').val();
