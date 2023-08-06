@@ -14,5 +14,7 @@ namespace Servicio
     {
         [OperationContract]
         void SaveTextToFile(string nombre, string apellido, string sexo, string email, string direc, string ciudad, string req);
+        [OperationContract]
+        bool Verificar_registro(string nombre, string apellidos);
     }
 }

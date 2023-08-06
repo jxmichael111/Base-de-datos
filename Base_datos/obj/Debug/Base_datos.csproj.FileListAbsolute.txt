@@ -6,3 +6,11 @@ D:\solo michael\semestre 3\DBP\Servicio\Base_datos\obj\Debug\Base_datos.csproj.S
 D:\solo michael\semestre 3\DBP\Servicio\Base_datos\obj\Debug\Base_datos.csproj.CoreCompileInputs.cache
 D:\solo michael\semestre 3\DBP\Servicio\Base_datos\obj\Debug\Base_datos.exe
 D:\solo michael\semestre 3\DBP\Servicio\Base_datos\obj\Debug\Base_datos.pdb
+F:\Servicio\Base_datos\obj\Debug\Base_datos.csproj.AssemblyReference.cache
+F:\Servicio\Base_datos\obj\Debug\Base_datos.csproj.SuggestedBindingRedirects.cache
+F:\Servicio\Base_datos\obj\Debug\Base_datos.csproj.CoreCompileInputs.cache
+F:\Servicio\Base_datos\obj\Debug\Base_datos.exe
+F:\Servicio\Base_datos\obj\Debug\Base_datos.pdb
+F:\Servicio\Base_datos\bin\Debug\Base_datos.exe.config
+F:\Servicio\Base_datos\bin\Debug\Base_datos.exe
+F:\Servicio\Base_datos\bin\Debug\Base_datos.pdb

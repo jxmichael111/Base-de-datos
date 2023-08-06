@@ -19,5 +19,10 @@ using Base_datos;
             GuardarDatos datos = new GuardarDatos();
             datos.SaveToBaseDatos(nombre,apellido,sexo,email,direc,ciudad,req);
             }
+        public bool Verificar_registro(string nombre, string apellidos)
+        {
+            GuardarDatos dataAlumnos = new GuardarDatos();
+            return dataAlumnos.VerificarRegistro(nombre, apellidos);
         }
+    }
     }

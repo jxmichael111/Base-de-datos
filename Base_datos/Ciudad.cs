@@ -16,6 +16,7 @@ namespace Base_datos
             List<String> ciudades = new List<String>();
             string conexion = "Data Source=(localdb)\\ProjectModels;Initial Catalog=BDWebAplication1;Integrated Security=True;";
             string consulta = "SELECT Ciudad FROM DataCiudad";
+
             using (SqlConnection connection = new SqlConnection(conexion))
             {
                 SqlCommand comando = new SqlCommand(consulta, connection);
